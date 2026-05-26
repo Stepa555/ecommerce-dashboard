@@ -29,12 +29,12 @@
 - Средняя скидка выше у мужчин (221 руб. против 218 руб. у женщин)
 
 ## 📸 Скриншот дашборда
-![dashboard](dashboard_screenshot_final.png)
+![dashboard](Дашборд_электронной_коммерции.png)
 
 ## 📂 Файлы
-- [dashboard.pbix](dashboard.pbix) — файл Power BI
-- [user_clean.csv](data/user_clean.csv) — очищенные данные пользователей
-- [orders_clean.csv](data/orders_clean.csv) — очищенные данные заказов
+- [Дашборд электронной коммерции(Дашборд_электронной_коммерции.pbix) — файл Power BI
+- [Анализ данных электронной коммерции](Анализ_данных_электронной_коммерции.ipyng) — очищенные данные пользователей
+
 
 ## 📬 Контакты
 - GitHub: [Stepa555](https://github.com/Stepa555)
