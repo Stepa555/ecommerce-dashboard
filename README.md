@@ -38,5 +38,5 @@
 
 ## 📬 Контакты
 - GitHub: [Stepa555](https://github.com/Stepa555)
-- Email: stepan.apsalyamov@mail.ru
-- Telegram: @Stepar445
+- Email: stepan.apsalyamov@gmail.com
+- Telegram: @Stepap445
